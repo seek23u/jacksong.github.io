@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
+I am a B-list software engineer.
 
-email: agus[at]python.web.id
+email: seek23u[at]gmail.com
